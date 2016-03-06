@@ -79,7 +79,9 @@ namespace FakeSensors
 
         private void debugLog(string message)
         {
-            Console.WriteLine(message, ConsoleColor.White);
+            Console.WriteLine(
+                string.Concat(DateTime.Now.ToString(), " ConsoleLogFakeSensor: ", message), 
+                ConsoleColor.White);
         }
     }
 }
