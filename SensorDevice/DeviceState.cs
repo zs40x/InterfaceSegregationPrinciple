@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace SensorDevice
+namespace SensorDevices
 {
-    interface DeviceState
+    public interface DeviceState
     {
         void enable();
         void disable();

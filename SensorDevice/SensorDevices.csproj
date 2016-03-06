@@ -7,8 +7,8 @@
     <ProjectGuid>{BDF6F644-AC39-45DB-A726-2837A726A7BA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SensorDevice</RootNamespace>
-    <AssemblyName>SensorDevice</AssemblyName>
+    <RootNamespace>SensorDevices</RootNamespace>
+    <AssemblyName>SensorDevices</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

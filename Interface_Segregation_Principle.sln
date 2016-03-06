@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDevice", "SensorDevice\SensorDevice.csproj", "{BDF6F644-AC39-45DB-A726-2837A726A7BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDevices", "SensorDevice\SensorDevices.csproj", "{BDF6F644-AC39-45DB-A726-2837A726A7BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeSensors", "FakeSensor\FakeSensors.csproj", "{6BDD2401-DA33-47FD-8DC3-3DFDBCFA9A13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BDF6F644-AC39-45DB-A726-2837A726A7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF6F644-AC39-45DB-A726-2837A726A7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF6F644-AC39-45DB-A726-2837A726A7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDD2401-DA33-47FD-8DC3-3DFDBCFA9A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDD2401-DA33-47FD-8DC3-3DFDBCFA9A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDD2401-DA33-47FD-8DC3-3DFDBCFA9A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDD2401-DA33-47FD-8DC3-3DFDBCFA9A13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

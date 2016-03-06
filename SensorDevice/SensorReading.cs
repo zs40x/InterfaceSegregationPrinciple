@@ -1,7 +1,7 @@
 ﻿
-namespace SensorDevice
+namespace SensorDevices
 {
-    interface SensorReading
+    public interface SensorReading
     {
         int getLastReading();
         int getMinReading();

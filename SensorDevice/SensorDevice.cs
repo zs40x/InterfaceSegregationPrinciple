@@ -1,6 +1,6 @@
 ﻿
-namespace SensorDevice
+namespace SensorDevices
 {
-    interface SensorDevice : DeviceControl, DeviceState, SensorReading
+    public interface SensorDevice : DeviceControl, DeviceState, SensorReading
     {}
 }

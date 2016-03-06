@@ -1,7 +1,7 @@
 ﻿
-namespace SensorDevice
+namespace SensorDevices
 {
-    interface DeviceControl
+    public interface DeviceControl
     {
         void powerOff();
         int getFirmwareVersion();
